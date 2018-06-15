@@ -1,4 +1,4 @@
-package com.lyk.loaderdemo;
+package com.fengd.loaderdemo;
 
 import android.app.Activity;
 import android.support.design.widget.CollapsingToolbarLayout;
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
-import com.lyk.loaderdemo.dummy.DummyContent;
+import com.fengd.loaderdemo.dummy.DummyContent;
 
 /**
  * A fragment representing a single Item detail screen.

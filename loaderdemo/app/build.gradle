@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion '27.0.3'
 
     defaultConfig {
-        applicationId "com.lyk.loaderdemo"
+        applicationId "com.fengd.loaderdemo"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1

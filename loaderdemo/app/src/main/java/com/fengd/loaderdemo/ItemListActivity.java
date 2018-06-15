@@ -1,4 +1,4 @@
-package com.lyk.loaderdemo;
+package com.fengd.loaderdemo;
 
 
 
@@ -19,8 +19,8 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-import com.lyk.loaderdemo.loader.DataLoader;
-import com.lyk.loaderdemo.dummy.DummyContent.DummyItem;
+import com.fengd.loaderdemo.loader.DataLoader;
+import com.fengd.loaderdemo.dummy.DummyContent.DummyItem;
 
 import java.util.ArrayList;
 import java.util.List;

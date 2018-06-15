@@ -1,4 +1,4 @@
-package com.lyk.loaderdemo;
+package com.fengd.loaderdemo;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

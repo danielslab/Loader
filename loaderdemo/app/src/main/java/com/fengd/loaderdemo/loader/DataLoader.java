@@ -1,16 +1,16 @@
-package com.lyk.loaderdemo.loader;
+package com.fengd.loaderdemo.loader;
 
 import android.content.AsyncTaskLoader;
 import android.content.Context;
 import android.os.CancellationSignal;
 import android.os.OperationCanceledException;
 
-import com.lyk.loaderdemo.dummy.DummyContent;
+import com.fengd.loaderdemo.dummy.DummyContent;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static com.lyk.loaderdemo.dummy.DummyContent.*;
+import static com.fengd.loaderdemo.dummy.DummyContent.*;
 
 /**
  * Created by LIUYONGKUI on 2016-05-30.
